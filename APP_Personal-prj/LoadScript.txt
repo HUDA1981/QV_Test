@@ -1,0 +1,103 @@
+﻿///$tab Main
+// ####################################################################################################
+//	Basisinformationen
+//	Firma:				ppmc AG
+//	Bearbeiter:			Daniel Hutter
+//	Version:			2.0
+//	letzte Bearbeitung: 20.12.2017
+// ####################################################################################################
+
+SET ThousandSep='.';
+SET DecimalSep=',';
+SET MoneyThousandSep='.';
+SET MoneyDecimalSep=',';
+SET MoneyFormat='#.##0,00 €;-#.##0,00 €';
+SET TimeFormat='hh:mm:ss';
+SET DateFormat='DD.MM.YYYY';
+SET TimestampFormat='DD.MM.YYYY hh:mm:ss[.fff]';
+SET MonthNames='Jan;Feb;Mrz;Apr;Mai;Jun;Jul;Aug;Sep;Okt;Nov;Dez';
+SET DayNames='Mo;Di;Mi;Do;Fr;Sa;So';
+
+// Dies sind Schlüsselfelder aus der Struktur, und müssen in der Feldliste nicht dargestellt werden.
+SET HidePrefix='%';
+
+//  Separator
+SET Sep = & ' | ' &;
+
+//  Dateipfad für Input
+set vConfigData = '[C:\Users\huda\Dropbox (ppmc)\PPMC Developer\88_Produkte\ppmc.spot.staff\V2.0 QS\';
+set vQVD2Con ='[D:\PR_000027_PERSO\DataWarehouse\QVD-Data\QVD2\Personal\QVDConnector\';
+set vQVD2App = '[D:\PR_000027_PERSO\DataWarehouse\QVD-Data\QVD2\Personal\QVDApplication\';
+
+///$tab Daten
+LOAD *
+FROM $(vQVD2App)*.qvd] (qvd);
+///$tab Organigramm
+UebergeordneteAbteilung_Mapping:
+MAPPING LOAD Abteilung_ID, Name 
+FROM $(vQVD2Con)Abteilung.qvd]
+(qvd);
+
+Qualify*;
+Unqualify %ObereEbeneNr_PK;
+
+Organigramm:
+load Distinct
+    ObereEbeneNr													as %ObereEbeneNr_PK,
+    ObereEbeneNr													as ObereEbeneNr,
+    applymap('UebergeordneteAbteilung_Mapping',ObereEbeneNr,0) 		as ObereEbeneName
+FROM $(vQVD2Con)Abteilung.qvd]
+(qvd);
+
+Unqualify *;
+///$tab Zuordnungsmatrix
+MatrixTemp:
+CrossTable(Bereich, Daten, 3)
+LOAD
+	Mandant_ID,
+	Konto_ID						as [Konto.Nr],
+    Bezeichnung, 
+    Arbeitszeit, 
+    Fehlzeit, 
+    Krankheit, 
+    Mehrarbeit,
+    Sollzeit
+FROM $(vConfigData)DWH_configuration_Personal.xlsx]
+(ooxml, embedded labels, table is Personal_Kontozuordnung);
+
+Bereich:
+load Distinct 
+	Bereich,
+concat(Distinct [Konto.Nr],',')			as Konten
+Resident MatrixTemp
+Group by Bereich;
+
+for v = 0 to NoOfRows('Bereich')
+let vBereich = peek('Bereich',$(v),'Bereich');
+let vKonten = peek('Konten',$(v),'Bereich');
+
+'var_$(vBereich)' = vKonten ;
+next v;
+
+drop Table Bereich;
+
+Qualify*;
+Unqualify [Konto.Nr];
+
+Matrix:
+NoConcatenate
+Load*,
+	num([Konto.Nr],'000') & ' ' & Bezeichnung	as [Konto Nr Bezeichnung]
+Resident MatrixTemp;
+drop table MatrixTemp;
+
+Unqualify*;
+
+drop Table KommtGehtIst;
+ 
+///$tab Varaiable set null()
+v=null;
+Sep=null;
+vConfigData=null;
+vQVD2Con=null;
+vQVD2App=null;

@@ -1,0 +1,1492 @@
+﻿<DocInternals>
+  <AlwaysLoose>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+  </AlwaysLoose>
+  <FieldSrcTables>
+    <String>7</String>
+    <String>1</String>
+    <String>Kalender</String>
+    <String>8</String>
+    <String>1</String>
+    <String>Kalender</String>
+    <String>9</String>
+    <String>1</String>
+    <String>Kalender</String>
+    <String>10</String>
+    <String>1</String>
+    <String>Kalender</String>
+    <String>11</String>
+    <String>1</String>
+    <String>Kalender</String>
+    <String>12</String>
+    <String>1</String>
+    <String>Kalender</String>
+    <String>13</String>
+    <String>1</String>
+    <String>Kalender</String>
+    <String>14</String>
+    <String>1</String>
+    <String>Kalender</String>
+    <String>15</String>
+    <String>1</String>
+    <String>Kalender</String>
+    <String>16</String>
+    <String>1</String>
+    <String>Kalender</String>
+    <String>19</String>
+    <String>2</String>
+    <String>Konto</String>
+    <String>Matrix</String>
+    <String>20</String>
+    <String>1</String>
+    <String>Konto</String>
+    <String>21</String>
+    <String>1</String>
+    <String>Konto</String>
+    <String>22</String>
+    <String>1</String>
+    <String>Konto</String>
+    <String>29</String>
+    <String>1</String>
+    <String>Mandant</String>
+    <String>30</String>
+    <String>1</String>
+    <String>Mandant</String>
+    <String>31</String>
+    <String>1</String>
+    <String>Mandant</String>
+    <String>32</String>
+    <String>1</String>
+    <String>Monatssaldo</String>
+    <String>33</String>
+    <String>1</String>
+    <String>Monatssaldo</String>
+    <String>34</String>
+    <String>1</String>
+    <String>Monatssaldo</String>
+    <String>35</String>
+    <String>1</String>
+    <String>Monatssaldo</String>
+    <String>36</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>37</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>38</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>39</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>40</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>41</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>42</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>43</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>44</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>45</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>46</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>47</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>48</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>49</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>50</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>51</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>52</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>53</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>54</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>55</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>56</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>57</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>58</String>
+    <String>1</String>
+    <String>Personal</String>
+    <String>59</String>
+    <String>1</String>
+    <String>PersonalAbteilung</String>
+    <String>60</String>
+    <String>1</String>
+    <String>PersonalAbteilung</String>
+    <String>61</String>
+    <String>1</String>
+    <String>PersonalAbteilung</String>
+    <String>63</String>
+    <String>1</String>
+    <String>PersonalAbteilung</String>
+    <String>64</String>
+    <String>1</String>
+    <String>PersonalAnstellungsart</String>
+    <String>65</String>
+    <String>1</String>
+    <String>PersonalAnstellungsart</String>
+    <String>66</String>
+    <String>1</String>
+    <String>PersonalAnstellungsart</String>
+    <String>67</String>
+    <String>1</String>
+    <String>PersonalAnstellungsart</String>
+    <String>68</String>
+    <String>1</String>
+    <String>PersonalAnstellungsart</String>
+    <String>69</String>
+    <String>1</String>
+    <String>PersonalAnstellungsart</String>
+    <String>70</String>
+    <String>1</String>
+    <String>PersonalAnstellungsart</String>
+    <String>71</String>
+    <String>1</String>
+    <String>PersonalEinAustritt</String>
+    <String>72</String>
+    <String>1</String>
+    <String>PersonalEinAustritt</String>
+    <String>73</String>
+    <String>1</String>
+    <String>PersonalEinAustritt</String>
+    <String>74</String>
+    <String>1</String>
+    <String>PersonalEinAustritt</String>
+    <String>75</String>
+    <String>1</String>
+    <String>PersonalEinAustritt</String>
+    <String>76</String>
+    <String>1</String>
+    <String>TagesZeitVerletzungen</String>
+    <String>77</String>
+    <String>1</String>
+    <String>TagesZeitVerletzungen</String>
+    <String>78</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>79</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>80</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>81</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>82</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>83</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>84</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>85</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>86</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>87</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>88</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>89</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>90</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>91</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>92</String>
+    <String>1</String>
+    <String>Tagesdaten</String>
+    <String>93</String>
+    <String>1</String>
+    <String>TagesdatenKommentar</String>
+    <String>94</String>
+    <String>1</String>
+    <String>Tagessaldo</String>
+    <String>95</String>
+    <String>1</String>
+    <String>Tagessaldo</String>
+    <String>96</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>97</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>98</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>99</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>100</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>101</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>102</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>103</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>104</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>105</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>106</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>107</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>108</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>109</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>110</String>
+    <String>1</String>
+    <String>Tagessumme</String>
+    <String>111</String>
+    <String>1</String>
+    <String>WochenZeitVerletzungen</String>
+    <String>112</String>
+    <String>1</String>
+    <String>WochenZeitVerletzungen</String>
+    <String>113</String>
+    <String>1</String>
+    <String>Wochensumme</String>
+    <String>114</String>
+    <String>1</String>
+    <String>Wochensumme</String>
+    <String>115</String>
+    <String>1</String>
+    <String>Wochensumme</String>
+    <String>116</String>
+    <String>1</String>
+    <String>Wochensumme</String>
+    <String>117</String>
+    <String>1</String>
+    <String>Wochensumme</String>
+    <String>118</String>
+    <String>1</String>
+    <String>Wochensumme</String>
+    <String>119</String>
+    <String>1</String>
+    <String>Wochensumme</String>
+    <String>120</String>
+    <String>1</String>
+    <String>Wochensumme</String>
+    <String>121</String>
+    <String>1</String>
+    <String>ZeitbuchungEinzelvereinbarung</String>
+    <String>122</String>
+    <String>2</String>
+    <String>ZeitbuchungEinzelvereinbarung</String>
+    <String>ZeitbuchungEinzelvereinbarungGesamt</String>
+    <String>123</String>
+    <String>1</String>
+    <String>ZeitbuchungEinzelvereinbarung</String>
+    <String>124</String>
+    <String>1</String>
+    <String>ZeitbuchungEinzelvereinbarung</String>
+    <String>125</String>
+    <String>1</String>
+    <String>ZeitbuchungEinzelvereinbarung</String>
+    <String>126</String>
+    <String>1</String>
+    <String>ZeitbuchungEinzelvereinbarung</String>
+    <String>127</String>
+    <String>1</String>
+    <String>ZeitbuchungEinzelvereinbarung</String>
+    <String>128</String>
+    <String>1</String>
+    <String>ZeitbuchungEinzelvereinbarungGesamt</String>
+    <String>129</String>
+    <String>1</String>
+    <String>ZeitbuchungEinzelvereinbarungGesamt</String>
+    <String>130</String>
+    <String>1</String>
+    <String>ZeitbuchungEinzelvereinbarungGesamt</String>
+    <String>131</String>
+    <String>1</String>
+    <String>ZeitbuchungEinzelvereinbarungGesamt</String>
+    <String>132</String>
+    <String>1</String>
+    <String>Organigramm</String>
+    <String>133</String>
+    <String>1</String>
+    <String>Organigramm</String>
+    <String>134</String>
+    <String>1</String>
+    <String>Matrix</String>
+    <String>135</String>
+    <String>1</String>
+    <String>Matrix</String>
+    <String>136</String>
+    <String>1</String>
+    <String>Matrix</String>
+    <String>137</String>
+    <String>1</String>
+    <String>Matrix</String>
+    <String>138</String>
+    <String>1</String>
+    <String>Matrix</String>
+  </FieldSrcTables>
+  <TableViewData>
+    <Pos></Pos>
+    <CtlInfo>
+      <InternalView>
+        <Tables>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1575</Left>
+              <Top>703</Top>
+              <Width>100</Width>
+              <Height>208</Height>
+            </Pos>
+            <Caption>Kalender</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1330</Left>
+              <Top>649</Top>
+              <Width>100</Width>
+              <Height>118</Height>
+            </Pos>
+            <Caption>Konto</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>844</Left>
+              <Top>453</Top>
+              <Width>100</Width>
+              <Height>172</Height>
+            </Pos>
+            <Caption>LinkTable</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1086</Left>
+              <Top>757</Top>
+              <Width>100</Width>
+              <Height>154</Height>
+            </Pos>
+            <Caption>Monatssaldo</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>658</Left>
+              <Top>28</Top>
+              <Width>100</Width>
+              <Height>208</Height>
+            </Pos>
+            <Caption>Personal</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>328</Left>
+              <Top>344</Top>
+              <Width>100</Width>
+              <Height>136</Height>
+            </Pos>
+            <Caption>PersonalAbteilung</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>346</Left>
+              <Top>28</Top>
+              <Width>100</Width>
+              <Height>172</Height>
+            </Pos>
+            <Caption>PersonalAnstellungsart</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>945</Left>
+              <Top>28</Top>
+              <Width>100</Width>
+              <Height>136</Height>
+            </Pos>
+            <Caption>PersonalEinAustritt</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>593</Left>
+              <Top>829</Top>
+              <Width>100</Width>
+              <Height>82</Height>
+            </Pos>
+            <Caption>TagesZeitVerletzungen</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>346</Left>
+              <Top>703</Top>
+              <Width>100</Width>
+              <Height>208</Height>
+            </Pos>
+            <Caption>Tagesdaten</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>104</Left>
+              <Top>611</Top>
+              <Width>100</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>TagesdatenKommentar</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>840</Left>
+              <Top>829</Top>
+              <Width>100</Width>
+              <Height>82</Height>
+            </Pos>
+            <Caption>Tagessaldo</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>61</Left>
+              <Top>259</Top>
+              <Width>100</Width>
+              <Height>208</Height>
+            </Pos>
+            <Caption>Tagessumme</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1235</Left>
+              <Top>28</Top>
+              <Width>100</Width>
+              <Height>82</Height>
+            </Pos>
+            <Caption>WochenZeitVerletzungen</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1332</Left>
+              <Top>315</Top>
+              <Width>100</Width>
+              <Height>190</Height>
+            </Pos>
+            <Caption>Wochensumme</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1088</Left>
+              <Top>302</Top>
+              <Width>100</Width>
+              <Height>154</Height>
+            </Pos>
+            <Caption>ZeitbuchungEinzelvereinbarung</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1575</Left>
+              <Top>28</Top>
+              <Width>100</Width>
+              <Height>100</Height>
+            </Pos>
+            <Caption>ZeitbuchungEinzelvereinbarungGesamt</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>61</Left>
+              <Top>28</Top>
+              <Width>100</Width>
+              <Height>82</Height>
+            </Pos>
+            <Caption>Organigramm1</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1759</Left>
+              <Top>410</Top>
+              <Width>100</Width>
+              <Height>118</Height>
+            </Pos>
+            <Caption>Matrix</Caption>
+          </TableViewTableWinSaveInfo>
+        </Tables>
+        <BroomPoints></BroomPoints>
+        <ConnectionPoints></ConnectionPoints>
+        <ZoomFactor>3FF0000000000000</ZoomFactor>
+      </InternalView>
+      <SourceView></SourceView>
+    </CtlInfo>
+    <Mode>0</Mode>
+  </TableViewData>
+  <Bookmarks></Bookmarks>
+  <SavedByVersion>12.10.20600.0</SavedByVersion>
+  <ForceBackEndMacroExecution>false</ForceBackEndMacroExecution>
+  <FieldTags>
+    <ScriptBased>
+      <FieldTagData>
+        <Tag>$numeric</Tag>
+        <FieldNames>
+          <String>Mandant_ID</String>
+          <String>Konto.Nr</String>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>%Datum_PK</String>
+          <String>Datum</String>
+          <String>Wochentag</String>
+          <String>Woche</String>
+          <String>Wochenstart</String>
+          <String>Monat</String>
+          <String>MonatJahr</String>
+          <String>Ist</String>
+          <String>Jahr</String>
+          <String>%Mandant_PK</String>
+          <String>Mandant.Nr</String>
+          <String>Monatssaldo.Saldo</String>
+          <String>Monatssaldo.Vortrag</String>
+          <String>Monatssaldo.Umbuchung</String>
+          <String>Monatssaldo.Korrektur</String>
+          <String>Personal.Alter</String>
+          <String>Personal.Mandant_ID</String>
+          <String>Personal.Personal_ID</String>
+          <String>Personal.PLZ</String>
+          <String>Personal.Geburtsdatum</String>
+          <String>Personal.Datum der Aufenthaltsgenehmigung</String>
+          <String>Personal.Aktiv</String>
+          <String>Personal.Datum Rentenantritt</String>
+          <String>PersonalAbteilung.Arbeitsbereich_ID</String>
+          <String>PersonalAbteilung.Abteilung_ID</String>
+          <String>%ObereEbeneNr_PK</String>
+          <String>PersonalAnstellungsart.Zeitmodell_ID</String>
+          <String>PersonalAnstellungsart.BAMSoll</String>
+          <String>PersonalAnstellungsart.BAM</String>
+          <String>PersonalAnstellungsart.Teilzeit</String>
+          <String>PersonalEinAustritt.Datum Austritt</String>
+          <String>PersonalEinAustritt.Datum Eintritt</String>
+          <String>PersonalEinAustritt.Jahre angestellt</String>
+          <String>PersonalEinAustritt.Ausgetreten</String>
+          <String>TagesZeitVerletzungen.Tageszeitv.ID</String>
+          <String>Tagesdaten.Datum</String>
+          <String>Tagesdaten.PersonalNr</String>
+          <String>Tagesdaten.Kommt</String>
+          <String>Tagesdaten.Geht</String>
+          <String>Tagesdaten.Dauer</String>
+          <String>Tagesdaten.ID</String>
+          <String>Tagessaldo.Saldo</String>
+          <String>Tagessaldo.Korrektur</String>
+          <String>Tagessumme.ZeitbuchungTag Einzelvereinbarung</String>
+          <String>Tagessumme.Pausen 30 Minuten</String>
+          <String>Tagessumme.Pausen 15 Minuten</String>
+          <String>Tagessumme.Pausen 10 Minuten</String>
+          <String>Tagessumme.Pause Minuten</String>
+          <String>Tagessumme.Arbeit Stunden</String>
+          <String>Tagessumme.Arbeit Stunden bis 6</String>
+          <String>Tagessumme.bis DatumZeit</String>
+          <String>Tagessumme.von DatumZeit</String>
+          <String>Tagessumme.&gt; 10 Stunden</String>
+          <String>Tagessumme.ZeitbuchungTag &gt; 10(12) Stunden</String>
+          <String>Tagessumme.Pausenzeitverletzung</String>
+          <String>Tagessumme.Pausenzeitverletzung1</String>
+          <String>Tagessumme.Tagesruhezeit Stunden</String>
+          <String>Tagessumme.Tagesruhezeit &lt; 11 Stunden</String>
+          <String>WochenZeitVerletzungen.Wochenzeitv.ID</String>
+          <String>Wochensumme.Arbeit Stunden</String>
+          <String>Wochensumme.&gt; 50 Stunden</String>
+          <String>Wochensumme.von DatumZeit</String>
+          <String>Wochensumme.bis DatumZeit</String>
+          <String>Wochensumme.Woche &gt; 50(60) Stunden</String>
+          <String>Wochensumme.Woche Einzelvereinbarung</String>
+          <String>Wochensumme.Wochenruhezeit Stunden</String>
+          <String>Wochensumme.Wochenruhezeit &lt; 36 Stunden</String>
+          <String>MitarbeiterNr</String>
+          <String>ZeitbuchungEinzelvereinbarung.JahrEV</String>
+          <String>ZeitbuchungEinzelvereinbarung.WocheNum</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.MandantNr</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.JahrEvGes</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.Wochen</String>
+          <String>Organigramm.ObereEbeneNr</String>
+          <String>Matrix.Mandant_ID</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$integer</Tag>
+        <FieldNames>
+          <String>Mandant_ID</String>
+          <String>Konto.Nr</String>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>%Datum_PK</String>
+          <String>Datum</String>
+          <String>Wochentag</String>
+          <String>Woche</String>
+          <String>Wochenstart</String>
+          <String>Monat</String>
+          <String>MonatJahr</String>
+          <String>Ist</String>
+          <String>Jahr</String>
+          <String>%Mandant_PK</String>
+          <String>Mandant.Nr</String>
+          <String>Monatssaldo.Umbuchung</String>
+          <String>Personal.Alter</String>
+          <String>Personal.Mandant_ID</String>
+          <String>Personal.Personal_ID</String>
+          <String>Personal.PLZ</String>
+          <String>Personal.Geburtsdatum</String>
+          <String>Personal.Datum der Aufenthaltsgenehmigung</String>
+          <String>Personal.Aktiv</String>
+          <String>Personal.Datum Rentenantritt</String>
+          <String>PersonalAbteilung.Arbeitsbereich_ID</String>
+          <String>PersonalAbteilung.Abteilung_ID</String>
+          <String>%ObereEbeneNr_PK</String>
+          <String>PersonalAnstellungsart.Zeitmodell_ID</String>
+          <String>PersonalAnstellungsart.BAMSoll</String>
+          <String>PersonalAnstellungsart.Teilzeit</String>
+          <String>PersonalEinAustritt.Datum Austritt</String>
+          <String>PersonalEinAustritt.Datum Eintritt</String>
+          <String>PersonalEinAustritt.Jahre angestellt</String>
+          <String>PersonalEinAustritt.Ausgetreten</String>
+          <String>TagesZeitVerletzungen.Tageszeitv.ID</String>
+          <String>Tagesdaten.Datum</String>
+          <String>Tagesdaten.PersonalNr</String>
+          <String>Tagesdaten.ID</String>
+          <String>Tagessumme.ZeitbuchungTag Einzelvereinbarung</String>
+          <String>Tagessumme.Pausen 30 Minuten</String>
+          <String>Tagessumme.Pausen 15 Minuten</String>
+          <String>Tagessumme.Pausen 10 Minuten</String>
+          <String>Tagessumme.Pause Minuten</String>
+          <String>Tagessumme.&gt; 10 Stunden</String>
+          <String>Tagessumme.ZeitbuchungTag &gt; 10(12) Stunden</String>
+          <String>Tagessumme.Pausenzeitverletzung</String>
+          <String>Tagessumme.Pausenzeitverletzung1</String>
+          <String>Tagessumme.Tagesruhezeit &lt; 11 Stunden</String>
+          <String>WochenZeitVerletzungen.Wochenzeitv.ID</String>
+          <String>Wochensumme.&gt; 50 Stunden</String>
+          <String>Wochensumme.Woche &gt; 50(60) Stunden</String>
+          <String>Wochensumme.Woche Einzelvereinbarung</String>
+          <String>Wochensumme.Wochenruhezeit &lt; 36 Stunden</String>
+          <String>MitarbeiterNr</String>
+          <String>ZeitbuchungEinzelvereinbarung.JahrEV</String>
+          <String>ZeitbuchungEinzelvereinbarung.WocheNum</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.MandantNr</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.JahrEvGes</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.Wochen</String>
+          <String>Organigramm.ObereEbeneNr</String>
+          <String>Matrix.Mandant_ID</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$key</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>%Datum_PK</String>
+          <String>%TagesDaten_PK</String>
+          <String>%Konto_PK</String>
+          <String>Konto.Nr</String>
+          <String>%MonatsSaldo_PK</String>
+          <String>%TagesSaldo_PK</String>
+          <String>%WochenDaten_PK</String>
+          <String>%PersonalDatum_PK</String>
+          <String>%Personal_PK</String>
+          <String>%Mandant_PK</String>
+          <String>%ObereEbeneNr_PK</String>
+          <String>MitarbeiterNr</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$hidden</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>$Info</String>
+          <String>%Datum_PK</String>
+          <String>%TagesDaten_PK</String>
+          <String>%Konto_PK</String>
+          <String>%MonatsSaldo_PK</String>
+          <String>%TagesSaldo_PK</String>
+          <String>%WochenDaten_PK</String>
+          <String>%PersonalDatum_PK</String>
+          <String>%Personal_PK</String>
+          <String>%Mandant_PK</String>
+          <String>%ObereEbeneNr_PK</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$system</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>$Info</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$ascii</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Info</String>
+          <String>WochentagTag</String>
+          <String>Quartal</String>
+          <String>%TagesDaten_PK</String>
+          <String>%Konto_PK</String>
+          <String>Konto.Nr Bezeichnung</String>
+          <String>Konto.Bezeichnung</String>
+          <String>Konto.Kurz</String>
+          <String>%MonatsSaldo_PK</String>
+          <String>%TagesSaldo_PK</String>
+          <String>%WochenDaten_PK</String>
+          <String>%PersonalDatum_PK</String>
+          <String>%Personal_PK</String>
+          <String>Mandant.Nr Name</String>
+          <String>Mandant.Name</String>
+          <String>Personal.Ausweis</String>
+          <String>Personal.Nachname</String>
+          <String>Personal.Vorname</String>
+          <String>Personal.SVNr.</String>
+          <String>Personal.Geschlecht</String>
+          <String>Personal.Strasse</String>
+          <String>Personal.Ort</String>
+          <String>Personal.Land</String>
+          <String>Personal.Email</String>
+          <String>Personal.Nr Name</String>
+          <String>Personal.Name</String>
+          <String>Personal.Anrede</String>
+          <String>Personal.Status</String>
+          <String>Personal.Geb Rund</String>
+          <String>Personal.Altersgruppe</String>
+          <String>PersonalAbteilung.Abteilung</String>
+          <String>PersonalAbteilung.Arbeitsbereich</String>
+          <String>PersonalAnstellungsart.Arbeitsverhältnis</String>
+          <String>PersonalAnstellungsart.Zeitmodell</String>
+          <String>PersonalAnstellungsart.BAMText</String>
+          <String>PersonalEinAustritt.Jubilaeum</String>
+          <String>TagesZeitVerletzungen.Tageszeitv.Bez.</String>
+          <String>Tagesdaten.Anwesenheitsart Code</String>
+          <String>Tagesdaten.Anwesenheitsart</String>
+          <String>Tagesdaten.Anwesenheitsart Code 2</String>
+          <String>Tagesdaten.Anwesenheitsart 2</String>
+          <String>Tagesdaten.Buchungsart Kommt</String>
+          <String>Tagesdaten.Buchungsart_ID Kommt</String>
+          <String>Tagesdaten.Buchungsart Geht</String>
+          <String>Tagesdaten.Buchungsart_ID Geht</String>
+          <String>Tagesdaten.Typ</String>
+          <String>TagesdatenKommentar.Kommentar</String>
+          <String>WochenZeitVerletzungen.Wochenzeitv.Bez.</String>
+          <String>ZeitbuchungEinzelvereinbarung.ManNrMANr</String>
+          <String>ZeitbuchungEinzelvereinbarung.MitarbeiterName</String>
+          <String>ZeitbuchungEinzelvereinbarung.Vereinbarung</String>
+          <String>ZeitbuchungEinzelvereinbarung.JahrWoche</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.Info</String>
+          <String>Matrix.Bezeichnung</String>
+          <String>Matrix.Bereich</String>
+          <String>Matrix.Daten</String>
+          <String>Matrix.Konto Nr Bezeichnung</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$text</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Info</String>
+          <String>WochentagTag</String>
+          <String>Quartal</String>
+          <String>%TagesDaten_PK</String>
+          <String>%Konto_PK</String>
+          <String>Konto.Nr Bezeichnung</String>
+          <String>Konto.Bezeichnung</String>
+          <String>Konto.Kurz</String>
+          <String>%MonatsSaldo_PK</String>
+          <String>%TagesSaldo_PK</String>
+          <String>%WochenDaten_PK</String>
+          <String>%PersonalDatum_PK</String>
+          <String>%Personal_PK</String>
+          <String>Mandant.Nr Name</String>
+          <String>Mandant.Name</String>
+          <String>Personal.Ausweis</String>
+          <String>Personal.Nachname</String>
+          <String>Personal.Vorname</String>
+          <String>Personal.SVNr.</String>
+          <String>Personal.Geschlecht</String>
+          <String>Personal.Strasse</String>
+          <String>Personal.Ort</String>
+          <String>Personal.Land</String>
+          <String>Personal.Email</String>
+          <String>Personal.Nr Name</String>
+          <String>Personal.Name</String>
+          <String>Personal.Anrede</String>
+          <String>Personal.Status</String>
+          <String>Personal.Geb Rund</String>
+          <String>Personal.Altersgruppe</String>
+          <String>PersonalAbteilung.Abteilung</String>
+          <String>PersonalAbteilung.Arbeitsbereich</String>
+          <String>PersonalAnstellungsart.Arbeitsverhältnis</String>
+          <String>PersonalAnstellungsart.Zeitmodell</String>
+          <String>PersonalAnstellungsart.BAMText</String>
+          <String>PersonalEinAustritt.Jubilaeum</String>
+          <String>TagesZeitVerletzungen.Tageszeitv.Bez.</String>
+          <String>Tagesdaten.Anwesenheitsart Code</String>
+          <String>Tagesdaten.Anwesenheitsart</String>
+          <String>Tagesdaten.Anwesenheitsart Code 2</String>
+          <String>Tagesdaten.Anwesenheitsart 2</String>
+          <String>Tagesdaten.Buchungsart Kommt</String>
+          <String>Tagesdaten.Buchungsart_ID Kommt</String>
+          <String>Tagesdaten.Buchungsart Geht</String>
+          <String>Tagesdaten.Buchungsart_ID Geht</String>
+          <String>Tagesdaten.Typ</String>
+          <String>TagesdatenKommentar.Kommentar</String>
+          <String>WochenZeitVerletzungen.Wochenzeitv.Bez.</String>
+          <String>ZeitbuchungEinzelvereinbarung.ManNrMANr</String>
+          <String>ZeitbuchungEinzelvereinbarung.MitarbeiterName</String>
+          <String>ZeitbuchungEinzelvereinbarung.Vereinbarung</String>
+          <String>ZeitbuchungEinzelvereinbarung.JahrWoche</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.Info</String>
+          <String>Matrix.Bezeichnung</String>
+          <String>Matrix.Bereich</String>
+          <String>Matrix.Daten</String>
+          <String>Matrix.Konto Nr Bezeichnung</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$timestamp</Tag>
+        <FieldNames>
+          <String>%Datum_PK</String>
+          <String>Datum</String>
+          <String>Wochenstart</String>
+          <String>MonatJahr</String>
+          <String>Personal.Datum der Aufenthaltsgenehmigung</String>
+          <String>Personal.Datum Rentenantritt</String>
+          <String>PersonalEinAustritt.Datum Austritt</String>
+          <String>PersonalEinAustritt.Datum Eintritt</String>
+          <String>Tagesdaten.Datum</String>
+          <String>Tagessumme.bis DatumZeit</String>
+          <String>Tagessumme.von DatumZeit</String>
+          <String>Wochensumme.von DatumZeit</String>
+          <String>Wochensumme.bis DatumZeit</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$date</Tag>
+        <FieldNames>
+          <String>%Datum_PK</String>
+          <String>Datum</String>
+          <String>Wochenstart</String>
+          <String>MonatJahr</String>
+          <String>Personal.Datum der Aufenthaltsgenehmigung</String>
+          <String>Personal.Datum Rentenantritt</String>
+          <String>PersonalEinAustritt.Datum Austritt</String>
+          <String>PersonalEinAustritt.Datum Eintritt</String>
+          <String>Tagesdaten.Datum</String>
+        </FieldNames>
+      </FieldTagData>
+    </ScriptBased>
+    <Interactive>
+      <FieldTagData>
+        <Tag>$numeric</Tag>
+        <FieldNames>
+          <String>%Datum_PK</String>
+          <String>Datum</String>
+          <String>Wochentag</String>
+          <String>Woche</String>
+          <String>Wochenstart</String>
+          <String>Monat</String>
+          <String>MonatJahr</String>
+          <String>Ist</String>
+          <String>Jahr</String>
+          <String>%Konto_PK</String>
+          <String>Konto Nr</String>
+          <String>Konto Intern</String>
+          <String>%Personal_PK</String>
+          <String>Monatssaldo</String>
+          <String>Monatsvortrag</String>
+          <String>Monatsumbuchung</String>
+          <String>Monatskorrektur</String>
+          <String>Monatskappung</String>
+          <String>Monatslimit</String>
+          <String>Nr</String>
+          <String>PLZ</String>
+          <String>Geburtsdatum</String>
+          <String>Datum der Aufenthaltsgenehmigung</String>
+          <String>Aktiv</String>
+          <String>Alter</String>
+          <String>DatumRentenantritt</String>
+          <String>Arbeitsbereich Nr</String>
+          <String>Abteilung Nr</String>
+          <String>%ObereEbeneNr_PK</String>
+          <String>Zeitmodell Nr</String>
+          <String>BAM</String>
+          <String>BAMSoll</String>
+          <String>Teilzeit</String>
+          <String>Datum Austritt</String>
+          <String>Datum Eintritt</String>
+          <String>Jahre angestellt</String>
+          <String>Ausgetreten</String>
+          <String>Tageszeitv.ID</String>
+          <String>DatumT</String>
+          <String>PersonalNr</String>
+          <String>Kommt</String>
+          <String>Geht</String>
+          <String>Dauer</String>
+          <String>ID</String>
+          <String>Tagessaldo</String>
+          <String>TagesKorrektur</String>
+          <String>ZeitbuchungTag Einzelvereinbarung</String>
+          <String>Tagessumme Pausen 30 Minuten</String>
+          <String>Tagessumme Pausen 15 Minuten</String>
+          <String>Tagessumme Pausen 10 Minuten</String>
+          <String>Tagessumme Pause Minuten</String>
+          <String>Tagessumme Arbeit Stunden</String>
+          <String>Tagessumme Arbeit Stunden bis 6</String>
+          <String>Tagessumme bis DatumZeit</String>
+          <String>Tagessumme von DatumZeit</String>
+          <String>Tagessumme &gt; 10 Stunden</String>
+          <String>ZeitbuchungTag &gt; 10(12) Stunden</String>
+          <String>Tagessumme Pausenzeitverletzung</String>
+          <String>Tagessumme Pausenzeitverletzung1</String>
+          <String>Tagessumme Tagesruhezeit Stunden</String>
+          <String>Tagessumme Tagesruhezeit &lt; 11 Stunden</String>
+          <String>Wochenzeitv.ID</String>
+          <String>Wochensumme Arbeit Stunden</String>
+          <String>Wochensumme &gt; 50 Stunden</String>
+          <String>Wochensumme von DatumZeit</String>
+          <String>Wochensumme bis DatumZeit</String>
+          <String>Woche &gt; 50(60) Stunden</String>
+          <String>Woche Einzelvereinbarung</String>
+          <String>Wochensumme Wochenruhezeit Stunden</String>
+          <String>Wochensumme Wochenruhezeit &lt; 36 Stunden</String>
+          <String>MitarbeiterNr</String>
+          <String>JahrEV</String>
+          <String>WocheNum</String>
+          <String>JahrEvGes</String>
+          <String>Wochen</String>
+          <String>IstZeitIst</String>
+          <String>MandantNr</String>
+          <String>Zeitmodell_ID</String>
+          <String>KommtGehtIst.DatumT</String>
+          <String>KommtGehtIst.PersonalNr</String>
+          <String>KommtGehtIst.MandantNr</String>
+          <String>KommtGehtIst.Kommt</String>
+          <String>KommtGehtIst.Geht</String>
+          <String>KommtGehtIst.Dauer</String>
+          <String>KommtGehtIst.Zeitmodell_ID</String>
+          <String>Konto.Nr</String>
+          <String>%Mandant_PK</String>
+          <String>Mandant.Nr</String>
+          <String>Monatssaldo.Saldo</String>
+          <String>Monatssaldo.Vortrag</String>
+          <String>Monatssaldo.Umbuchung</String>
+          <String>Monatssaldo.Korrektur</String>
+          <String>Mandant_ID</String>
+          <String>IstZeitSch</String>
+          <String>PausenDauer</String>
+          <String>vonZeitSch</String>
+          <String>bisZeitSch</String>
+          <String>Personal.Alter</String>
+          <String>Personal.Mandant_ID</String>
+          <String>Personal.Personal_ID</String>
+          <String>Personal.Ausweis</String>
+          <String>Personal.Geburtsdatum</String>
+          <String>Personal.Aktiv</String>
+          <String>Personal.Datum Rentenantritt</String>
+          <String>PersonalAbteilung.Arbeitsbereich_ID</String>
+          <String>PersonalAbteilung.Abteilung_ID</String>
+          <String>PersonalAnstellungsart.Zeitmodell_ID</String>
+          <String>PersonalAnstellungsart.BAMSoll</String>
+          <String>PersonalAnstellungsart.BAM</String>
+          <String>PersonalAnstellungsart.Teilzeit</String>
+          <String>PersonalEinAustritt.Datum Austritt</String>
+          <String>PersonalEinAustritt.Datum Eintritt</String>
+          <String>PersonalEinAustritt.Jahre angestellt</String>
+          <String>PersonalEinAustritt.Ausgetreten</String>
+          <String>TagesZeitVerletzungen.Tageszeitv.ID</String>
+          <String>Tagesdaten.Datum</String>
+          <String>Tagesdaten.PersonalNr</String>
+          <String>Tagesdaten.Kommt</String>
+          <String>Tagesdaten.Geht</String>
+          <String>Tagesdaten.Dauer</String>
+          <String>Tagesdaten.ID</String>
+          <String>Tagessaldo.Saldo</String>
+          <String>Tagessaldo.Korrektur</String>
+          <String>Tagessumme.ZeitbuchungTag Einzelvereinbarung</String>
+          <String>Tagessumme.Pausen 30 Minuten</String>
+          <String>Tagessumme.Pausen 15 Minuten</String>
+          <String>Tagessumme.Pausen 10 Minuten</String>
+          <String>Tagessumme.Pause Minuten</String>
+          <String>Tagessumme.Arbeit Stunden</String>
+          <String>Tagessumme.Arbeit Stunden bis 6</String>
+          <String>Tagessumme.bis DatumZeit</String>
+          <String>Tagessumme.von DatumZeit</String>
+          <String>Tagessumme.&gt; 10 Stunden</String>
+          <String>Tagessumme.ZeitbuchungTag &gt; 10(12) Stunden</String>
+          <String>Tagessumme.Pausenzeitverletzung</String>
+          <String>Tagessumme.Pausenzeitverletzung1</String>
+          <String>Tagessumme.Tagesruhezeit Stunden</String>
+          <String>Tagessumme.Tagesruhezeit &lt; 11 Stunden</String>
+          <String>WochenZeitVerletzungen.Wochenzeitv.ID</String>
+          <String>Wochensumme.Arbeit Stunden</String>
+          <String>Wochensumme.&gt; 50 Stunden</String>
+          <String>Wochensumme.von DatumZeit</String>
+          <String>Wochensumme.bis DatumZeit</String>
+          <String>Wochensumme.Woche &gt; 50(60) Stunden</String>
+          <String>Wochensumme.Woche Einzelvereinbarung</String>
+          <String>Wochensumme.Wochenruhezeit Stunden</String>
+          <String>Wochensumme.Wochenruhezeit &lt; 36 Stunden</String>
+          <String>ZeitbuchungEinzelvereinbarung.JahrEV</String>
+          <String>ZeitbuchungEinzelvereinbarung.WocheNum</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.MandantNr</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.JahrEvGes</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.Wochen</String>
+          <String>Personal.PLZ</String>
+          <String>Personal.Datum der Aufenthaltsgenehmigung</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$integer</Tag>
+        <FieldNames>
+          <String>%Datum_PK</String>
+          <String>Datum</String>
+          <String>Wochentag</String>
+          <String>Woche</String>
+          <String>Wochenstart</String>
+          <String>Monat</String>
+          <String>MonatJahr</String>
+          <String>Ist</String>
+          <String>Jahr</String>
+          <String>%Konto_PK</String>
+          <String>Konto Nr</String>
+          <String>Konto Intern</String>
+          <String>%Personal_PK</String>
+          <String>Monatsumbuchung</String>
+          <String>Nr</String>
+          <String>PLZ</String>
+          <String>Geburtsdatum</String>
+          <String>Datum der Aufenthaltsgenehmigung</String>
+          <String>Aktiv</String>
+          <String>Alter</String>
+          <String>DatumRentenantritt</String>
+          <String>Arbeitsbereich Nr</String>
+          <String>Abteilung Nr</String>
+          <String>%ObereEbeneNr_PK</String>
+          <String>Zeitmodell Nr</String>
+          <String>BAMSoll</String>
+          <String>Teilzeit</String>
+          <String>Datum Austritt</String>
+          <String>Datum Eintritt</String>
+          <String>Jahre angestellt</String>
+          <String>Ausgetreten</String>
+          <String>Tageszeitv.ID</String>
+          <String>DatumT</String>
+          <String>PersonalNr</String>
+          <String>Kommt</String>
+          <String>ID</String>
+          <String>ZeitbuchungTag Einzelvereinbarung</String>
+          <String>Tagessumme Pausen 30 Minuten</String>
+          <String>Tagessumme Pausen 15 Minuten</String>
+          <String>Tagessumme Pausen 10 Minuten</String>
+          <String>Tagessumme Pause Minuten</String>
+          <String>Tagessumme &gt; 10 Stunden</String>
+          <String>ZeitbuchungTag &gt; 10(12) Stunden</String>
+          <String>Tagessumme Pausenzeitverletzung</String>
+          <String>Tagessumme Pausenzeitverletzung1</String>
+          <String>Tagessumme Tagesruhezeit &lt; 11 Stunden</String>
+          <String>Wochenzeitv.ID</String>
+          <String>Wochensumme &gt; 50 Stunden</String>
+          <String>Woche &gt; 50(60) Stunden</String>
+          <String>Woche Einzelvereinbarung</String>
+          <String>Wochensumme Wochenruhezeit &lt; 36 Stunden</String>
+          <String>MitarbeiterNr</String>
+          <String>JahrEV</String>
+          <String>WocheNum</String>
+          <String>JahrEvGes</String>
+          <String>Wochen</String>
+          <String>MandantNr</String>
+          <String>Zeitmodell_ID</String>
+          <String>KommtGehtIst.DatumT</String>
+          <String>KommtGehtIst.PersonalNr</String>
+          <String>KommtGehtIst.MandantNr</String>
+          <String>KommtGehtIst.Zeitmodell_ID</String>
+          <String>Konto.Nr</String>
+          <String>%Mandant_PK</String>
+          <String>Mandant.Nr</String>
+          <String>Mandant_ID</String>
+          <String>PausenDauer</String>
+          <String>Personal.Alter</String>
+          <String>Personal.Mandant_ID</String>
+          <String>Personal.Personal_ID</String>
+          <String>Personal.Ausweis</String>
+          <String>Personal.Geburtsdatum</String>
+          <String>Personal.Aktiv</String>
+          <String>Personal.Datum Rentenantritt</String>
+          <String>PersonalAbteilung.Arbeitsbereich_ID</String>
+          <String>PersonalAbteilung.Abteilung_ID</String>
+          <String>PersonalAnstellungsart.Zeitmodell_ID</String>
+          <String>PersonalAnstellungsart.Teilzeit</String>
+          <String>PersonalEinAustritt.Datum Austritt</String>
+          <String>PersonalEinAustritt.Datum Eintritt</String>
+          <String>PersonalEinAustritt.Jahre angestellt</String>
+          <String>PersonalEinAustritt.Ausgetreten</String>
+          <String>TagesZeitVerletzungen.Tageszeitv.ID</String>
+          <String>Tagesdaten.Datum</String>
+          <String>Tagesdaten.PersonalNr</String>
+          <String>Tagesdaten.ID</String>
+          <String>Tagessumme.ZeitbuchungTag Einzelvereinbarung</String>
+          <String>Tagessumme.Pausen 30 Minuten</String>
+          <String>Tagessumme.Pausen 15 Minuten</String>
+          <String>Tagessumme.Pausen 10 Minuten</String>
+          <String>Tagessumme.Pause Minuten</String>
+          <String>Tagessumme.&gt; 10 Stunden</String>
+          <String>Tagessumme.ZeitbuchungTag &gt; 10(12) Stunden</String>
+          <String>Tagessumme.Pausenzeitverletzung</String>
+          <String>Tagessumme.Pausenzeitverletzung1</String>
+          <String>Tagessumme.Tagesruhezeit &lt; 11 Stunden</String>
+          <String>WochenZeitVerletzungen.Wochenzeitv.ID</String>
+          <String>Wochensumme.&gt; 50 Stunden</String>
+          <String>Wochensumme.Woche &gt; 50(60) Stunden</String>
+          <String>Wochensumme.Woche Einzelvereinbarung</String>
+          <String>Wochensumme.Wochenruhezeit &lt; 36 Stunden</String>
+          <String>ZeitbuchungEinzelvereinbarung.JahrEV</String>
+          <String>ZeitbuchungEinzelvereinbarung.WocheNum</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.MandantNr</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.JahrEvGes</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.Wochen</String>
+          <String>Personal.PLZ</String>
+          <String>Personal.Datum der Aufenthaltsgenehmigung</String>
+          <String>PersonalAnstellungsart.BAMSoll</String>
+          <String>Monatssaldo.Umbuchung</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$timestamp</Tag>
+        <FieldNames>
+          <String>%Datum_PK</String>
+          <String>Datum</String>
+          <String>Wochenstart</String>
+          <String>MonatJahr</String>
+          <String>Datum der Aufenthaltsgenehmigung</String>
+          <String>DatumRentenantritt</String>
+          <String>Datum Austritt</String>
+          <String>Datum Eintritt</String>
+          <String>DatumT</String>
+          <String>Tagessumme bis DatumZeit</String>
+          <String>Tagessumme von DatumZeit</String>
+          <String>Wochensumme von DatumZeit</String>
+          <String>Wochensumme bis DatumZeit</String>
+          <String>KommtGehtIst.DatumT</String>
+          <String>Personal.Datum Rentenantritt</String>
+          <String>PersonalEinAustritt.Datum Austritt</String>
+          <String>PersonalEinAustritt.Datum Eintritt</String>
+          <String>Tagesdaten.Datum</String>
+          <String>Tagessumme.bis DatumZeit</String>
+          <String>Tagessumme.von DatumZeit</String>
+          <String>Wochensumme.von DatumZeit</String>
+          <String>Wochensumme.bis DatumZeit</String>
+          <String>Personal.Datum der Aufenthaltsgenehmigung</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$date</Tag>
+        <FieldNames>
+          <String>%Datum_PK</String>
+          <String>Datum</String>
+          <String>Wochenstart</String>
+          <String>MonatJahr</String>
+          <String>Datum der Aufenthaltsgenehmigung</String>
+          <String>DatumRentenantritt</String>
+          <String>Datum Austritt</String>
+          <String>Datum Eintritt</String>
+          <String>DatumT</String>
+          <String>KommtGehtIst.DatumT</String>
+          <String>Personal.Datum Rentenantritt</String>
+          <String>PersonalEinAustritt.Datum Austritt</String>
+          <String>PersonalEinAustritt.Datum Eintritt</String>
+          <String>Tagesdaten.Datum</String>
+          <String>Personal.Datum der Aufenthaltsgenehmigung</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$hidden</Tag>
+        <FieldNames>
+          <String>%Datum_PK</String>
+          <String>%Konto_PK</String>
+          <String>%MonatsSaldo_PK</String>
+          <String>%TagesSaldo_PK</String>
+          <String>%TagesDaten_PK</String>
+          <String>%WochenDaten_PK</String>
+          <String>%PersonalDatum_PK</String>
+          <String>%Personal_PK</String>
+          <String>%ObereEbeneNr_PK</String>
+          <String>%Mandant_PK</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$ascii</Tag>
+        <FieldNames>
+          <String>Woche</String>
+          <String>WochentagTag</String>
+          <String>Quartal</String>
+          <String>Konto Kurz</String>
+          <String>%MonatsSaldo_PK</String>
+          <String>%TagesSaldo_PK</String>
+          <String>%TagesDaten_PK</String>
+          <String>%WochenDaten_PK</String>
+          <String>%PersonalDatum_PK</String>
+          <String>Ausweis</String>
+          <String>SVNr.</String>
+          <String>Geschlecht</String>
+          <String>Strasse</String>
+          <String>Land</String>
+          <String>Email</String>
+          <String>Name</String>
+          <String>Anrede</String>
+          <String>Status</String>
+          <String>GebRund</String>
+          <String>Arbeitsverhältnis</String>
+          <String>Zeitmodell</String>
+          <String>BAMText</String>
+          <String>Jubilaeum</String>
+          <String>Tageszeitv.Bez.</String>
+          <String>Anwesenheitsart Code</String>
+          <String>Anwesenheitsart Code 2</String>
+          <String>Buchungsart Kommt</String>
+          <String>Buchungsart Code Kommt</String>
+          <String>Buchungsart Geht</String>
+          <String>Buchungsart Code Geht</String>
+          <String>Typ</String>
+          <String>Anwesenheit Kommentar</String>
+          <String>Wochenzeitv.Bez.</String>
+          <String>Vereinbarung</String>
+          <String>JahrWoche</String>
+          <String>KommtGehtIst.Typ</String>
+          <String>%Konto_PK</String>
+          <String>Konto.Bezeichnung</String>
+          <String>Konto.Kurz</String>
+          <String>%Personal_PK</String>
+          <String>Mandant.Nr Name</String>
+          <String>Mandant.Name</String>
+          <String>Kappungsart</String>
+          <String>Pause</String>
+          <String>Personal.SVNr.</String>
+          <String>Personal.Geschlecht</String>
+          <String>Personal.Email</String>
+          <String>Personal.Datum der Aufenthaltsgenehmigung</String>
+          <String>Personal.Anrede</String>
+          <String>Personal.Status</String>
+          <String>Personal.Geb Rund</String>
+          <String>Personal.Altersgruppe</String>
+          <String>%ObereEbeneNr_PK</String>
+          <String>PersonalAnstellungsart.Arbeitsverhältnis</String>
+          <String>PersonalAnstellungsart.Zeitmodell</String>
+          <String>PersonalAnstellungsart.BAMText</String>
+          <String>PersonalEinAustritt.Jubilaeum</String>
+          <String>TagesZeitVerletzungen.Tageszeitv.Bez.</String>
+          <String>Tagesdaten.Anwesenheitsart Code</String>
+          <String>Tagesdaten.Anwesenheitsart Code 2</String>
+          <String>Tagesdaten.Typ</String>
+          <String>WochenZeitVerletzungen.Wochenzeitv.Bez.</String>
+          <String>ZeitbuchungEinzelvereinbarung.ManNrMANr</String>
+          <String>ZeitbuchungEinzelvereinbarung.Vereinbarung</String>
+          <String>ZeitbuchungEinzelvereinbarung.JahrWoche</String>
+          <String>KommtGehtIst.Buchungsart Kommt</String>
+          <String>KommtGehtIst.Buchungsart_ID Kommt</String>
+          <String>KommtGehtIst.Buchungsart Geht</String>
+          <String>KommtGehtIst.Buchungsart_ID Geht</String>
+          <String>Personal.Ausweis</String>
+          <String>Personal.Strasse</String>
+          <String>Personal.Land</String>
+          <String>Tagesdaten.Buchungsart Kommt</String>
+          <String>Tagesdaten.Buchungsart_ID Kommt</String>
+          <String>Tagesdaten.Buchungsart Geht</String>
+          <String>Tagesdaten.Buchungsart_ID Geht</String>
+          <String>TagesdatenKommentar.Kommentar</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$text</Tag>
+        <FieldNames>
+          <String>Woche</String>
+          <String>WochentagTag</String>
+          <String>Quartal</String>
+          <String>Konto Bez</String>
+          <String>Konto Kurz</String>
+          <String>%MonatsSaldo_PK</String>
+          <String>%TagesSaldo_PK</String>
+          <String>%TagesDaten_PK</String>
+          <String>%WochenDaten_PK</String>
+          <String>%PersonalDatum_PK</String>
+          <String>Ausweis</String>
+          <String>Nachname</String>
+          <String>Vorname</String>
+          <String>SVNr.</String>
+          <String>Geschlecht</String>
+          <String>Strasse</String>
+          <String>Ort</String>
+          <String>Land</String>
+          <String>Email</String>
+          <String>NrName</String>
+          <String>Name</String>
+          <String>Anrede</String>
+          <String>Status</String>
+          <String>GebRund</String>
+          <String>Abteilung</String>
+          <String>Arbeitsbereich</String>
+          <String>Arbeitsverhältnis</String>
+          <String>Zeitmodell</String>
+          <String>BAMText</String>
+          <String>Jubilaeum</String>
+          <String>Tageszeitv.Bez.</String>
+          <String>Anwesenheitsart Code</String>
+          <String>Anwesenheitsart</String>
+          <String>Anwesenheitsart Code 2</String>
+          <String>Anwesenheitsart 2</String>
+          <String>Buchungsart Kommt</String>
+          <String>Buchungsart Code Kommt</String>
+          <String>Buchungsart Geht</String>
+          <String>Buchungsart Code Geht</String>
+          <String>Typ</String>
+          <String>Anwesenheit Kommentar</String>
+          <String>Wochenzeitv.Bez.</String>
+          <String>MitarbeiterName</String>
+          <String>Vereinbarung</String>
+          <String>JahrWoche</String>
+          <String>Info</String>
+          <String>KommtGehtIst.Buchungsart Kommt</String>
+          <String>KommtGehtIst.Buchungsart Geht</String>
+          <String>KommtGehtIst.Typ</String>
+          <String>%Konto_PK</String>
+          <String>Konto.Bezeichnung</String>
+          <String>Konto.Kurz</String>
+          <String>%Personal_PK</String>
+          <String>Mandant.Nr Name</String>
+          <String>Mandant.Name</String>
+          <String>Kappungsart</String>
+          <String>Pause</String>
+          <String>Personal.Nachname</String>
+          <String>Personal.Vorname</String>
+          <String>Personal.SVNr.</String>
+          <String>Personal.Geschlecht</String>
+          <String>Personal.Strasse</String>
+          <String>Personal.Ort</String>
+          <String>Personal.Email</String>
+          <String>Personal.Datum der Aufenthaltsgenehmigung</String>
+          <String>Personal.Nr Name</String>
+          <String>Personal.Name</String>
+          <String>Personal.Anrede</String>
+          <String>Personal.Status</String>
+          <String>Personal.Geb Rund</String>
+          <String>Personal.Altersgruppe</String>
+          <String>PersonalAbteilung.Abteilung</String>
+          <String>%ObereEbeneNr_PK</String>
+          <String>PersonalAbteilung.Arbeitsbereich</String>
+          <String>PersonalAnstellungsart.Arbeitsverhältnis</String>
+          <String>PersonalAnstellungsart.Zeitmodell</String>
+          <String>PersonalAnstellungsart.BAMText</String>
+          <String>PersonalEinAustritt.Jubilaeum</String>
+          <String>TagesZeitVerletzungen.Tageszeitv.Bez.</String>
+          <String>Tagesdaten.Anwesenheitsart Code</String>
+          <String>Tagesdaten.Anwesenheitsart</String>
+          <String>Tagesdaten.Anwesenheitsart Code 2</String>
+          <String>Tagesdaten.Anwesenheitsart 2</String>
+          <String>Tagesdaten.Buchungsart Kommt</String>
+          <String>Tagesdaten.Buchungsart Geht</String>
+          <String>Tagesdaten.Typ</String>
+          <String>TagesdatenKommentar.Kommentar</String>
+          <String>WochenZeitVerletzungen.Wochenzeitv.Bez.</String>
+          <String>ZeitbuchungEinzelvereinbarung.ManNrMANr</String>
+          <String>ZeitbuchungEinzelvereinbarung.MitarbeiterName</String>
+          <String>ZeitbuchungEinzelvereinbarung.Vereinbarung</String>
+          <String>ZeitbuchungEinzelvereinbarung.JahrWoche</String>
+          <String>ZeitbuchungEinzelvereinbarungGesamt.Info</String>
+          <String>KommtGehtIst.Buchungsart_ID Kommt</String>
+          <String>KommtGehtIst.Buchungsart_ID Geht</String>
+          <String>Personal.Ausweis</String>
+          <String>Personal.Land</String>
+          <String>Tagesdaten.Buchungsart_ID Kommt</String>
+          <String>Tagesdaten.Buchungsart_ID Geht</String>
+          <String>Konto.Nr Bezeichnung</String>
+        </FieldNames>
+      </FieldTagData>
+    </Interactive>
+  </FieldTags>
+  <FieldComments></FieldComments>
+  <TableComments></TableComments>
+  <CreatePrjFolder>false</CreatePrjFolder>
+  <LinkedTables></LinkedTables>
+  <AppObjectEntries></AppObjectEntries>
+  <GenericDimensions></GenericDimensions>
+  <GenericMeasures></GenericMeasures>
+  <GenericBookmarks></GenericBookmarks>
+  <ConnectionInfo></ConnectionInfo>
+  <GenericDerivedDefinitions></GenericDerivedDefinitions>
+  <GenericDerivedFields></GenericDerivedFields>
+</DocInternals>
